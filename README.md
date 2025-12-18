@@ -10,7 +10,7 @@ Also, you can use other browsers with tweaking the code.
 #Another browser
 26 browser = webdriver.Firefox("your firefox driver path here")
 ```
-<h2>Requirements</h2>
+<h2>Requirements</h2>Instagram
 <p> run
 <code>
   pip install -r requirements.txt
